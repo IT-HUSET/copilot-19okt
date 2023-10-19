@@ -35,7 +35,7 @@
 ### Efter installation av Code Space: 
 * Installera Copilot plugins
 * Installera Live Preview
-* (Flutter Coffee) Kör flutter pub get efter att du satt upp ditt code space
+* (Flutter Coffee) Kör **flutter pub get** efter att du satt upp ditt code space
 
 <br/>
 
