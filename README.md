@@ -97,8 +97,6 @@ Labbprojektet är med Node.js / Express, men kan du det redan - överväg att pr
  * Lagra nya ordrar
  * Implementera en endpoint för att lista ordrar
 
-<br/>
-
 #### 4. Bygg samma applikation med ett annat språk / runtime, tex Go, Deno etc.
 
 
