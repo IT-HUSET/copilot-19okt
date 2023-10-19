@@ -77,6 +77,7 @@ Detta projekt använder vi mest för "code along" och testande av olika funktion
 <br/>
 
 ### Coffee Backend - Bygg en backend till Flutter Coffee
+Labbprojektet är med Node.js / Express, men kan du det redan - överväg att prova med ett annat språk / runtime, tex Go, Deno etc.
 
 #### 1. Implementera stöd för endpointen /coffeedrinks
  * Returnera en JSON-lista av kaffedrycker:
@@ -98,6 +99,11 @@ Detta projekt använder vi mest för "code along" och testande av olika funktion
 
 <br/>
 
+#### 4. Bygg samma applikation med ett annat språk / runtime, tex Go, Deno etc.
+
+
+
+<br/>
 
 ## Bonusuppgifter (på egen hand)
 
