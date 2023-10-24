@@ -119,6 +119,14 @@ https://moaw.dev/workshop/?src=gh:azure-samples/copilot-nodejs-todo/main/docs/
 
 * [Quickstart for GitHub Copilot](https://docs.github.com/en/copilot/quickstart)
 * [Using GitHub Copilot Chat](https://docs.github.com/en/copilot/github-copilot-chat/using-github-copilot-chat?tool=vscode)
-* 
+* [Step-by-Step: How to Setup Copilot Chat in VS Code](https://techcommunity.microsoft.com/t5/educator-developer-blog/step-by-step-how-to-setup-copilot-chat-in-vs-code/ba-p/3849227)
+
+<br/>
+
+## Läs/sevärt
+
+* [Scott and Mark Learn to Code (MS Build 2023)](https://www.youtube.com/watch?v=iihJYAMIRP4)
+* [Prompting with Copilot (VS Code GitHub Copilot Series)](https://www.youtube.com/watch?v=ImWfIDTxn7E&list=PLj6YeMhvp2S5_hvBl2SE-7YCHYlLQ0bPt&index=10)
+* [Pragmatic techniques to get the most out of GitHub Copilot (MS Build 2023)](https://www.youtube.com/watch?v=CwAzIpc4AnA)
 
 
